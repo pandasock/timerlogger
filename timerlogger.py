@@ -1,6 +1,6 @@
 from time import strftime
 
-#how to use keyboard input? {ie; enter key}
+#how to use keyboard input? {ie; enter key 2 execute f'n}
 
 #AUTOMATion of the f'ns via (lack of) keyboard input - no need to manually type
 #
